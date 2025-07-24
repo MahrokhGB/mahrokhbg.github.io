@@ -1,6 +1,6 @@
 baseURL: "https://mahrokhgb.github.io"
 title: Mahrokh Ghoddousi Boroujeni
-paginate: 20
+pagination.pagerSize: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -163,7 +163,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: Mahrokh_cv.pdf
+          url: Mahrokh_CV.pdf
         - name: Email
           url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
         - name: Google Scholar
